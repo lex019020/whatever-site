@@ -24,6 +24,7 @@ export default defineConfig({
     sidebar: false,
 
     socialLinks: [
+      { icon: 'instagram', link: 'https://www.instagram.com/whatevercc.rs/' },
       { icon: 'github', link: 'https://github.com/lex019020/whatever-site' }
     ],
 
