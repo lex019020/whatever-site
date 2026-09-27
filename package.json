@@ -1,0 +1,18 @@
+{
+  "name": "whatever-site",
+  "version": "0.0.1",
+  "description": "Микро-сайт со статьями на VitePress",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "private": true
+}

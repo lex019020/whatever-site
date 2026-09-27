@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "docs: dev",
+      "type": "npm",
+      "script": "docs:dev",
+      "isBackground": true,
+      "problemMatcher": [],
+      "group": { "kind": "build", "isDefault": true },
+      "presentation": { "panel": "dedicated", "reveal": "always" }
+    },
+    {
+      "label": "docs: build",
+      "type": "npm",
+      "script": "docs:build",
+      "problemMatcher": []
+    },
+    {
+      "label": "docs: preview",
+      "type": "npm",
+      "script": "docs:preview",
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
+}

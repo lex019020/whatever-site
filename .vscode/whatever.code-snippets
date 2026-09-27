@@ -1,0 +1,24 @@
+{
+  "Новая статья": {
+    "scope": "markdown",
+    "prefix": "post",
+    "body": [
+      "---",
+      "title: $1",
+      "description: $2",
+      "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+      "---",
+      "",
+      "# $1",
+      "",
+      "$0"
+    ],
+    "description": "Frontmatter новой статьи"
+  },
+  "Блок-подсказка": {
+    "scope": "markdown",
+    "prefix": "tip",
+    "body": ["::: ${1|tip,warning,danger,info,details|} ${2:Заголовок}", "$0", ":::"],
+    "description": "VitePress container"
+  }
+}

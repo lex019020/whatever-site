@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 224" width="160" height="179">
+<defs><marker id="a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e5484d"/></marker></defs>
+<rect width="200" height="224" rx="16" fill="#f3f4f6"/>
+<g stroke-linejoin="round">
+<rect x="94" y="156" width="12" height="60" rx="6" fill="#ffffff" stroke="#2b2f36" stroke-width="2.5"/>
+<line x1="100" y1="162" x2="100" y2="210" stroke="#2b2f36" stroke-width="1.5" stroke-dasharray="3 4"/>
+<polyline points="88,140 82,168 88,194" fill="none" stroke="#2b2f36" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/><polyline points="88,140 82,168 88,194" fill="none" stroke="#ffffff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="112,140 118,162 112,180" fill="none" stroke="#2b2f36" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/><polyline points="112,140 118,162 112,180" fill="none" stroke="#ffffff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="89" cy="198" rx="7" ry="5" fill="#2b2f36"/>
+<ellipse cx="112" cy="184" rx="7" ry="5" fill="#2b2f36"/>
+<path d="M60,114 L140,114" fill="none" stroke="#2b2f36" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M60,114 L140,114" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M60,114 Q48,114 47,126 Q46,140 58,142" fill="none" stroke="#2b2f36" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M60,114 Q48,114 47,126 Q46,140 58,142" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M140,114 Q152,114 153,126 Q154,140 142,142" fill="none" stroke="#2b2f36" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M140,114 Q152,114 153,126 Q154,140 142,142" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><rect x="51" y="104" width="10" height="14" rx="4" fill="#ffffff" stroke="#2b2f36" stroke-width="2.5"/><rect x="139" y="104" width="10" height="14" rx="4" fill="#ffffff" stroke="#2b2f36" stroke-width="2.5"/>
+<polyline points="74,82 60,98 56,106" fill="none" stroke="#2b2f36" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><polyline points="74,82 60,98 56,106" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="126,82 184,82" fill="none" stroke="#2b2f36" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><polyline points="126,82 184,82" fill="none" stroke="#ffc94d" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+<path d="M78,126 L122,126 L125,146 Q100,154 75,146 Z" fill="#d5d9e0" stroke="#2b2f36" stroke-width="2.5"/>
+<path d="M74,78 Q100,70 126,78 Q132,82 130,90 L122,128 Q100,133 78,128 L70,90 Q68,82 74,78 Z" fill="#ffffff" stroke="#2b2f36" stroke-width="2.5"/>
+<path d="M81,114 Q100,118 119,114" fill="none" stroke="#2b2f36" stroke-width="1.8"/>
+<line x1="94" y1="116.5" x2="94" y2="126" stroke="#2b2f36" stroke-width="1.8"/>
+<line x1="106" y1="116.5" x2="106" y2="126" stroke="#2b2f36" stroke-width="1.8"/>
+<rect x="94" y="64" width="12" height="12" rx="4" fill="#ffffff" stroke="#2b2f36" stroke-width="2.5"/>
+<circle cx="100" cy="56" r="14" fill="#ffffff" stroke="#2b2f36" stroke-width="2.5"/>
+<path d="M83,60 Q82,36 100,36 Q118,36 117,60 Q100,56 83,60 Z" fill="#ffffff" stroke="#2b2f36" stroke-width="2.5"/>
+<path d="M93,40 L92,55 M100,39 L100,55 M107,40 L108,55" stroke="#2b2f36" stroke-width="2" stroke-linecap="round"/>
+</g>
+<line x1="140" y1="60" x2="180" y2="60" stroke="#e5484d" stroke-width="3.5" stroke-linecap="round" marker-end="url(#a)"/>
+<circle cx="56" cy="106" r="6" fill="#ffffff" stroke="#2b2f36" stroke-width="2.5"/><circle cx="184" cy="82" r="6" fill="#ffc94d" stroke="#2b2f36" stroke-width="2.5"/>
+</svg>

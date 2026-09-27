@@ -1,0 +1,42 @@
+{
+  // --- Markdown ---
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": { "other": true, "comments": false, "strings": true },
+    "editor.tabSize": 2,
+    // в markdown два пробела в конце строки — это перенос, не мусор
+    "files.trimTrailingWhitespace": false
+  },
+
+  // Проверка ссылок между .md прямо в редакторе
+  "markdown.validate.enabled": true,
+  "markdown.validate.fileLinks.enabled": "warning",
+  "markdown.validate.fragmentLinks.enabled": "warning",
+
+  // При переименовании/переносе файла ссылки на него чинятся сами
+  "markdown.updateLinksOnFileMove.enabled": "always",
+
+  // Куда класть картинку, вставленную из буфера (Ctrl+V в .md)
+  "markdown.copyFiles.destination": {
+    "/docs/posts/**/*": "images/",
+    "/docs/*.md": "public/images/"
+  },
+
+  // --- Орфография ---
+  "cSpell.language": "en,ru",
+
+  // --- Шум в поиске и дереве файлов ---
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.vitepress/dist": true,
+    "**/.vitepress/cache": true,
+    "package-lock.json": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/.vitepress/cache/**": true,
+    "**/.vitepress/dist/**": true
+  },
+
+  "files.eol": "\n"
+}

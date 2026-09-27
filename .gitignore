@@ -1,0 +1,14 @@
+node_modules/
+dist/
+**/.vitepress/dist/
+**/.vitepress/cache/
+
+# Obsidian: настройки хранилища и его локальная корзина
+.obsidian/
+.trash/
+
+.DS_Store
+*.log
+
+# Локальные настройки Claude Code
+.claude/
