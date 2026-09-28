@@ -49,7 +49,6 @@ Whatever<span>.cc</span> (кратко - «ватевер») - клуб люби
 ## Ссылки
 
 - [Instagram](https://www.instagram.com/whatevercc.rs/) - фотки с заездов
-- [GitHub](https://github.com/lex019020/whatever-site) - код и этот сайт
 
 <div class="sep" />
 
