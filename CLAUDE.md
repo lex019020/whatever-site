@@ -19,7 +19,7 @@ python scripts/gestures.py   # пересобрать схемы жестов в
 
 ## Статьи
 
-- Лежат в `docs/posts/*.md`, во frontmatter `title`, `description`, `date`. `date` задаёт только порядок в списке на главной.
+- Лежат в `docs/posts/*.md`, во frontmatter `title`, `description`, `order`, `date`. `order` задаёт порядок в списке на главной по важности (1 сверху), `date` - порядок среди статей без `order`.
 - Ссылки между статьями - `/posts/<имя-файла>` без `.md`.
 - Сейчас есть: `rules.md` (правила участия), `group-riding.md` (гайд по езде в группе), `etiquette.md` (вайб и этикет, пока заглушка).
 - Картинки жестов - SVG из `scripts/gestures.py`. Руками SVG не правим, правим скрипт и пересобираем.
