@@ -5,13 +5,16 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "lint": "markdownlint-cli2 \"docs/index.md\" \"docs/posts/*.md\" \"docs/en/**/*.md\" \"docs/sr/**/*.md\"",
+    "check:i18n": "node scripts/check-i18n.mjs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "devDependencies": {
+    "markdownlint-cli2": "^0.23.3",
     "vitepress": "^1.6.4"
   },
   "private": true
