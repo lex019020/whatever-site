@@ -62,7 +62,7 @@ Whatever<span>.cc</span> (кратко - «ватевер») - клуб люби
 ## Статьи
 
 <ul>
-  <li v-for="post of posts" :key="post.url">
+  <li v-for="post of posts.filter((p) => p.locale === 'root')" :key="post.url">
     <a :href="post.url">{{ post.title }}</a>
   </li>
 </ul>

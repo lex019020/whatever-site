@@ -3,6 +3,8 @@ name: Check
 on:
   pull_request:
     branches: [main]
+    # labeled/unlabeled - чтобы метка i18n-skip сразу перезапускала проверку
+    types: [opened, synchronize, reopened, labeled, unlabeled]
 
 permissions:
   contents: read
@@ -21,6 +23,11 @@ jobs:
       - name: Install
         run: npm ci
       - name: Lint markdown
-        run: npx --yes markdownlint-cli2 "docs/index.md" "docs/posts/*.md"
+        run: npm run lint
+      - name: Check translations
+        run: node scripts/check-i18n.mjs
+        env:
+          I18N_BASE: ${{ github.event.pull_request.base.sha }}
+          I18N_SKIP: ${{ contains(github.event.pull_request.labels.*.name, 'i18n-skip') && '1' || '0' }}
       - name: Build
         run: npm run docs:build
