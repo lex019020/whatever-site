@@ -111,8 +111,7 @@ const base = process.env.I18N_BASE
 if (base && process.env.I18N_SKIP !== '1') {
   // M - правка существующей страницы, A - новая страница или новый перевод
   const changed = execFileSync('git', ['diff', '--name-status', '--no-renames', `${base}...HEAD`], { encoding: 'utf8' })
-    .split('
-').filter(Boolean).map((l) => l.split('	'))
+    .split('\n').filter(Boolean).map((l) => l.split('\t'))
   const touched = new Map() // page -> Map(locale -> статус)
   for (const [status, file] of changed) {
     for (const [locale, dir] of Object.entries(LOCALES)) {
