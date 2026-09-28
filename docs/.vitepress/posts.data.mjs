@@ -7,11 +7,14 @@ export default createContentLoader('posts/*.md', {
       .filter((page) => page.url !== '/posts/')
       .map(({ url, frontmatter, src }) => ({
         title: pick(frontmatter.title, firstHeading(src), fileName(url)),
-        // date нигде не показывается, нужен только для порядка в списке
-        order: orderKey(frontmatter.date),
+        // order - ручной порядок (1, 2, 3...), статьи без него идут следом.
+        // date нигде не показывается, нужен только для порядка среди статей без order
+        order: typeof frontmatter.order === 'number' ? frontmatter.order : Infinity,
+        date: orderKey(frontmatter.date),
         url
       }))
-      .sort((a, b) => b.order - a.order)
+      .sort((a, b) => a.order - b.order || b.date - a.date)
+      .map(({ title, url }) => ({ title, url }))
   }
 })
 
