@@ -14,10 +14,14 @@ export default defineConfig({
   lastUpdated: true,
 
   head: [
-    ['meta', { name: 'theme-color', content: '#3c8772' }]
+    ['meta', { name: 'theme-color', content: '#3c8772' }],
+    ['link', { rel: 'icon', href: '/favicon.ico', sizes: '48x48' }],
+    ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' }]
   ],
 
   themeConfig: {
+    logo: '/logo.webp',
+
     // Меню и боковая панель не нужны: единственная точка входа — главная,
     // список статей собирается там же.
     nav: [],
