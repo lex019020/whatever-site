@@ -67,12 +67,12 @@ Whatever the front sees, the back needs to know. So always pass signals and call
 | ![Signal: flicking both elbows](/gestures/elbows-both.svg) | A few flicks of both elbows | I'm getting out of the saddle, or there's a small obstacle ahead that you can't go around |
 | ![Signal: raised hand, stop](/gestures/stop.svg) | Raised hand or open palm facing back | Slowing down or stopping |
 
-Out loud (here's what we shout):
+Out loud. We usually shout in Russian, so here are the words you'll hear:
 
-- **"Hole!", "Glass!", "Shit!"** - obstacle on the road;
-- **"Car back!" / "Car up!"** - tighten up and move right;
-- **"Stop!"** - we're stopping;
-- **"Flat!" / "Puncture!"** - someone has a problem, the group slows down.
+- **«Яма!» (yama), «Стекло!» (steklo), «Говно!» (govno)** - hole, glass, shit: obstacle on the road;
+- **«Тачка сзади!» / «Тачка спереди!» (tachka szadi / tachka speredi)** - car back / car up: tighten up and move right;
+- **«Стоп!» (stop)** - we're stopping;
+- **«Прокол!» / «Пробитие!» (prokol / probitie)** - flat: someone has a problem, the group slows down.
 
 The riders at the front point out obstacles early and go around them with room to spare, so nobody behind gets a surprise. Harmless stuff that'll just give you a little shake doesn't get pointed out: if you signal every crack in the road, nobody will notice the real pothole.
 
@@ -104,7 +104,7 @@ If you drop a bottle, don't slam on the brakes or turn around for it in the midd
 
 ## Flats and mechanicals
 
-Shout "Flat!" or "Puncture!", raise your hand and ease over to the side of the road without braking hard. The group will slow down and stop somewhere safe.
+Shout «Прокол!» (prokol) or «Пробитие!» (probitie), meaning "flat", raise your hand and ease over to the side of the road without braking hard. The group will slow down and stop somewhere safe.
 
 We usually wait for flats. But if the ride is on a tight schedule, the ride leader may decide to keep going. Then anyone who fancies a break can stay behind and keep you company.
 
@@ -135,7 +135,7 @@ When we stop, the whole group gets completely off the road. Standing around in t
 
 ## If someone crashes
 
-1. Shout "Stop!" and stop, without causing a pile-up behind you.
+1. Shout «Стоп!» (stop) and stop, without causing a pile-up behind you.
 2. Someone goes back up the road to warn cars.
 3. Don't lift or move the rider who went down until it's clear they're OK. The exception is if they're lying where a car could hit them.
 4. If help is needed, call an ambulance. In Serbia, ambulance is **194**, police is **192**. The general 112 number doesn't work here.

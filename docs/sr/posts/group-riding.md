@@ -67,12 +67,12 @@ Sve što vide oni napred moraju da saznaju i oni pozadi. Zato gestove i komande 
 | ![Gest: mahanje sa oba lakta](/gestures/elbows-both.svg) | Nekoliko puta mahni sa oba lakta | Ustajem iz sedla, ili je napred mala prepreka koja ne može da se obiđe |
 | ![Gest: podignuta ruka, stop](/gestures/stop.svg) | Podignuta ruka ili otvoren dlan okrenut unazad | Kočimo ili stajemo |
 
-Glasom:
+Glasom. Obično vičemo na ruskom, pa evo reči koje ćeš čuti:
 
-- **„Rupa!“, „Staklo!“, „Govno!“** - prepreka na putu;
-- **„Auto pozadi!“ / „Auto napred!“** - zbijamo se i idemo više desno;
-- **„Stop!“** - stajemo;
-- **„Pukla guma!“ / „Defekt!“** - neko ima problem, grupa usporava.
+- **«Яма!» (jama), «Стекло!» (steklo), «Говно!» (govno)** - rupa, staklo, govno: prepreka na putu;
+- **«Тачка сзади!» / «Тачка спереди!» (tačka szadi / tačka speredi)** - auto pozadi / auto napred: zbijamo se i idemo više desno;
+- **«Стоп!» (stop)** - stajemo;
+- **«Прокол!» / «Пробитие!» (prokol / probitije)** - pukla guma: neko ima problem, grupa usporava.
 
 Oni na čelu grupe pokazuju prepreke unapred i obilaze ih sa rezervom, da onima pozadi to ne bude iznenađenje. Bezopasne prepreke koje će samo malo da prodrmaju ne pokazujemo: ako pokazuješ svaku pukotinu, pravu rupu niko neće primetiti.
 
@@ -104,7 +104,7 @@ Ako ti ispadne bidon, ne koči naglo i ne okreći se po njega usred grupe. Vikni
 
 ## Pukla guma i kvarovi
 
-Vikni „Pukla guma!“ ili „Defekt!“, podigni ruku i postepeno se skloni ka ivici puta, bez naglog kočenja. Grupa će usporiti i stati na bezbednom mestu.
+Vikni «Прокол!» (prokol) ili «Пробитие!» (probitije), što znači „pukla guma“, podigni ruku i postepeno se skloni ka ivici puta, bez naglog kočenja. Grupa će usporiti i stati na bezbednom mestu.
 
 Kad nekom pukne guma, obično čekamo. Ali ako je vožnja vremenski ograničena, ride lider može da odluči da se nastavi dalje. Tada ko hoće da se odmori, može da ostane i pravi društvo.
 
@@ -135,7 +135,7 @@ Stajemo tako da cela grupa potpuno siđe sa kolovoza. Stajanje u gomili na traci
 
 ## Ako neko padne
 
-1. Vičemo „Stop!“ i stajemo, pazeći da ne napravimo lančani sudar iza.
+1. Vičemo «Стоп!» (stop) i stajemo, pazeći da ne napravimo lančani sudar iza.
 2. Neko se postavi malo dalje na putu, sa strane odakle dolaze kola, i upozorava vozače.
 3. Onog ko je pao ne dižemo i ne pomeramo dok ne bude jasno da je s njim sve u redu. Izuzetak je ako leži tamo gde može da ga udari auto.
 4. Ako treba pomoć - zovemo Hitnu. U Srbiji je Hitna pomoć **194**, policija **192**. Opšti broj 112 ovde ne radi.

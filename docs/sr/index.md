@@ -30,6 +30,8 @@ onda će ti na većini vožnji biti sasvim ok. Ako još ne možeš - biće ti po
 
 Trenutno su u klubu aktivni samo momci i devojke koji govore ruski. Lokalne bicikliste nažalost zasad nismo uspeli da privučemo (ali nismo se ni baš trudili).
 
+Čet je uglavnom na ruskom, ali danas svako ima prevodilac u telefonu, tako da možeš da dođeš i bez znanja ruskog. A i engleski kod nas svi dobro znaju.
+
 ## Kako vozimo
 
 Uglavnom vozimo drumski, u grupi. Trudimo se da po ravnom vozimo zajedno, sa smenama, a na brdima se skupljamo posle većih uspona i spustova. Ali proceni svoje snage: no-drop nije garantovan, osim ako to ne piše u najavi.
