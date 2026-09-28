@@ -30,7 +30,7 @@ then you'll be fine on most rides. If not yet - it'll be a bit of a struggle, so
 
 Right now the active members are all Russian-speaking guys and gals. Sadly, we haven't managed to win over any local riders yet (then again, we haven't exactly tried).
 
-The chat is mostly in Russian, but everyone has a translator on their phone these days, so you're welcome even if you don't speak a word of it. Plus, most of us speak English well.
+The chat is mostly in Russian, but everyone has a translator on their phone these days, so you're welcome even if you don't speak a word of it. Plus, most of us speak English well, and some speak Serbian too, some better than others.
 
 ## How we ride
 

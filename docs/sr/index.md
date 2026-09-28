@@ -30,7 +30,7 @@ onda će ti na većini vožnji biti sasvim ok. Ako još ne možeš - biće ti po
 
 Trenutno su u klubu aktivni samo momci i devojke koji govore ruski. Lokalne bicikliste nažalost zasad nismo uspeli da privučemo (ali nismo se ni baš trudili).
 
-Čet je uglavnom na ruskom, ali danas svako ima prevodilac u telefonu, tako da možeš da dođeš i bez znanja ruskog. A i engleski kod nas svi dobro znaju.
+Čet je uglavnom na ruskom, ali danas svako ima prevodilac u telefonu, tako da možeš da dođeš i bez znanja ruskog. A i engleski kod nas svi dobro znaju, a neki znaju i srpski, ko bolje, ko lošije.
 
 ## Kako vozimo
 
